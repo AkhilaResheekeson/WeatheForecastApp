@@ -1,0 +1,24 @@
+body{
+    text-align: left;
+    margin-top: 200px;
+    margin-left: 100px;
+    background-color: rgb(139, 233, 240);
+}
+
+h1{
+    color: #2610eb;
+}
+
+.button1{
+    padding: auto;
+    background-color: rgb(32, 196, 32);
+    font-size: 30px;
+    color: white;
+    border-radius: 10px;
+}
+
+
+p{
+    color: rgb(238, 129, 5);
+    font-size: 40px;
+}
